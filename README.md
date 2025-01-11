@@ -4,6 +4,9 @@ Settings for my Ender 3 V3 SE using Klipper firmware (since I FINALLY dialed it 
 
 This is my private configuration settings and may work on your device. However, this is NOT recommended to be plug-and-play with any ender 3 v3 se running klipper. This configuraiton CAN AND WILL cause damages if not correctly dialed in by hand.
 
+## Firmware I'm using
+[Klipper with TFT Display](https://github.com/jpcurti/ender3-v3-se-klipper-with-display)
+
 ## Tools I used to help dial it in
 
 - [Setting up X, Y, and Z Access](https://www.youtube.com/watch?v=4Y35XzPKjUs) (NOTE: See spreadsheet below)
